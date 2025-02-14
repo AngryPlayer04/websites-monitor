@@ -1,6 +1,7 @@
 websites:
-  - audiolibri.org
-  - example.com
+  - angrytech.com.br
+  - blog.angrytech.com.br
+  - mark4p.top
 output_file: README.md
 max_workers: 2
 timeout: 30
