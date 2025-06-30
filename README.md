@@ -112,10 +112,10 @@ For any issues or suggestions regarding this project, feel free to open an issue
 
 
 
-This report was automatically generated on 2025-06-29 04:31:25 UTC.
+This report was automatically generated on 2025-06-30 04:29:38 UTC.
 
 | Website | Domain breach | Domain Expiration | SSL Certificate | DNS Blacklists | DomainsBlacklists | HSTS | XSS Protection | Redirect chains | Pagespeed | Load Time | Rate Limiting | CDN | Brotli | Deprecated Libraries | Client Rendering | Mixed Content | Content-Type | i18n | FLoC | AMP | Robots.txt | Sitemap | Favicon | Alt Tags | Open Graph | Semantic Markup | Ad Tracking | WHOIS Privacy | Privacy Exposure |
 |---------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-cassionhieg.live | ⚪ | 🟢 (327 days left) | 🟢 (52 days left) | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 100 | 🟢 | 🔴 | ⚪ | 🔴 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | ⚪ | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 |
-blog.cassionhieg.live | ⚪ | 🟢 (327 days left) | 🟢 (52 days left) | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 100 | 🟢 | 🔴 | ⚪ | 🔴 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 |
-mark4p.top | ⚪ | 🟢 (301 days left) | 🟢 (71 days left) | 🟢 | 🟢 | 🟢 | 🟢 | 🟠 | ⚪ | 🟢 | 🔴 | ⚪ | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 |
+cassionhieg.live | ⚪ | 🟢 (326 days left) | 🟢 (51 days left) | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 100 | 🟢 | 🔴 | ⚪ | 🔴 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | ⚪ | 🔴 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 |
+blog.cassionhieg.live | ⚪ | 🟢 (326 days left) | 🟢 (51 days left) | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 100 | 🟢 | 🔴 | ⚪ | 🔴 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 |
+mark4p.top | ⚪ | 🟢 (300 days left) | 🟢 (70 days left) | 🟢 | 🟢 | 🟢 | 🟢 | 🟠 | ⚪ | 🟢 | 🔴 | ⚪ | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🔴 |
