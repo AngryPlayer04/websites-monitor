@@ -112,10 +112,10 @@ For any issues or suggestions regarding this project, feel free to open an issue
 
 
 
-This report was automatically generated on 2026-06-23 07:42:26 UTC.
+This report was automatically generated on 2026-06-24 07:35:18 UTC.
 
 | Website | Domain breach | Domain Expiration | SSL Certificate | DNS Blacklists | DomainsBlacklists | HSTS | XSS Protection | Redirect chains | Pagespeed | Load Time | Rate Limiting | CDN | Brotli | Deprecated Libraries | Client Rendering | Mixed Content | Content-Type | i18n | FLoC | AMP | Robots.txt | Sitemap | Favicon | Alt Tags | Open Graph | Semantic Markup | Ad Tracking | WHOIS Privacy | Privacy Exposure |
 |---------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-cassionhieg.live | ⚪ | ⚪ | 🟢 (78 days left) | 🟢 | 🟢 | ⚪ | 🔴 | 🟢 | ⚪ | 🟢 | 🔴 | ⚪ | 🔴 | ⚪ | 🔴 | ⚪ | 🟢 | ⚪ | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ | 🔴 | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ |
-blog.cassionhieg.live | ⚪ | ⚪ | 🟢 (78 days left) | 🟢 | 🟢 | ⚪ | 🔴 | 🟢 | ⚪ | 🟢 | 🔴 | ⚪ | 🔴 | ⚪ | 🟢 | ⚪ | 🟢 | ⚪ | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ | 🔴 | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ |
-mark4p.top | ⚪ | ⚪ | 🟢 (69 days left) | 🟢 | 🟢 | ⚪ | ⚪ | 🟢 | 100 | ⚪ | 🟢 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ | ⚪ | ⚪ | 🔴 | 🟢 | 🟢 | ⚪ |
+cassionhieg.live | ⚪ | ⚪ | 🟢 (77 days left) | 🟢 | 🟢 | ⚪ | 🔴 | 🟢 | ⚪ | 🟢 | 🔴 | ⚪ | 🔴 | ⚪ | 🔴 | ⚪ | 🟢 | ⚪ | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ | 🔴 | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ |
+blog.cassionhieg.live | ⚪ | ⚪ | 🟢 (77 days left) | 🟢 | 🟢 | ⚪ | 🔴 | 🟢 | ⚪ | 🟢 | 🔴 | ⚪ | 🔴 | ⚪ | 🟢 | ⚪ | 🟢 | ⚪ | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ | 🔴 | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ |
+mark4p.top | ⚪ | ⚪ | 🟢 (68 days left) | 🟢 | 🟢 | ⚪ | ⚪ | 🟢 | ⚪ | ⚪ | 🟢 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ | ⚪ | ⚪ | 🔴 | 🟢 | 🟢 | ⚪ |
